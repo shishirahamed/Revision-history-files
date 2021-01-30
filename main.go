@@ -8,14 +8,17 @@ fmt.Println("my name is shishir ahamed i lived a rangpur district")
 fmt.Println("beginner programmers designer")
 fmt.Println("আল্লাহ্‌ ভরসা")
 fmt.Println("Alhamdulillah subhanalallah allahuakbar")
+
 fmt.Println("Ameen")
 
 var shishir=18
 var class=11
 var rangpur=5230
 fmt.Println(shishir)
+
 fmt.Println(class)
 fmt.Println(rangpur)
+
 
 districk :=125
 thana :=5230
